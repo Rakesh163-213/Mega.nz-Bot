@@ -12,3 +12,4 @@ cryptography
 pycryptodome
 psutil
 humans-formatter
+flask
